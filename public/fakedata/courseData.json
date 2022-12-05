@@ -1,0 +1,112 @@
+{
+	"courses": [
+		{
+			"_id": 1,
+			"title": "Class 4-10",
+			"rating": 4,
+			"courseDetails": "Course for Class 4:10 students.",
+			"instractor": {
+				"name": "Shrey Vegad",
+				"img": "https://avatars.githubusercontent.com/u/84916009?s=400&u=31e43dea4cb2e2f3cfa6b073685c2d36bf467aae&v=4",
+				"designation": "Teacher"
+			},
+			"icon": "https://ouch-cdn2.icons8.com/nhL1vJfQXaofi3NbQdLbqk6DI1KVibXvchef-eDUpsQ/rs:fit:256:215/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvNjIv/ZWY4M2QxMTQtYzA2/Ni00NzgzLWE2MTUt/YzVkMDNjNTUzZDU5/LnN2Zw.png",
+			"price": {
+				"full": 1000,
+				"monthly": 150
+			},
+			"lecture": 48,
+			"hours": 280
+		},
+		{
+      "_id": 2,
+      "title": "Class 11-12",
+      "rating": 5,
+      "courseDetails": "Course for Class 11:12 students.",
+      "instractor": {
+        "name": "Shrey Vegad",
+        "img": "https://avatars.githubusercontent.com/u/84916009?s=400&u=31e43dea4cb2e2f3cfa6b073685c2d36bf467aae&v=4",
+        "designation": "Teacher"
+      },
+      "icon": "https://ouch-cdn2.icons8.com/nhL1vJfQXaofi3NbQdLbqk6DI1KVibXvchef-eDUpsQ/rs:fit:256:215/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvNjIv/ZWY4M2QxMTQtYzA2/Ni00NzgzLWE2MTUt/YzVkMDNjNTUzZDU5/LnN2Zw.png",
+      "price": {
+        "full": 1200,
+        "monthly": 200
+      },
+      "lecture": 70,
+      "hours": 350
+    },
+		{
+      "_id": 3,
+      "title": "JEE",
+      "rating": 4,
+      "courseDetails": "Comprehensive learning program for JEE preparation",
+      "instractor": {
+        "name": "Shrey Vegad",
+        "img": "https://avatars.githubusercontent.com/u/84916009?s=400&u=31e43dea4cb2e2f3cfa6b073685c2d36bf467aae&v=4",
+        "designation": "Teacher"
+      },
+      "icon": "https://ouch-cdn2.icons8.com/nhL1vJfQXaofi3NbQdLbqk6DI1KVibXvchef-eDUpsQ/rs:fit:256:215/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvNjIv/ZWY4M2QxMTQtYzA2/Ni00NzgzLWE2MTUt/YzVkMDNjNTUzZDU5/LnN2Zw.png",
+      "price": {
+        "full": 1100,
+        "monthly": 200
+      },
+      "lecture": 60,
+      "hours": 290
+    },
+		{
+      "_id": 4,
+      "title": "NEET",
+      "rating": 5,
+      "courseDetails": "Comprehensive learning program for NEET aspirants",
+      "instractor": {
+        "name": "Shrey Vegad",
+        "img": "https://avatars.githubusercontent.com/u/84916009?s=400&u=31e43dea4cb2e2f3cfa6b073685c2d36bf467aae&v=44",
+        "designation": "Teacher"
+      },
+      "icon": "https://ouch-cdn2.icons8.com/nhL1vJfQXaofi3NbQdLbqk6DI1KVibXvchef-eDUpsQ/rs:fit:256:215/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvNjIv/ZWY4M2QxMTQtYzA2/Ni00NzgzLWE2MTUt/YzVkMDNjNTUzZDU5/LnN2Zw.png",
+      "price": {
+        "full": 1000,
+        "monthly": 150
+      },
+      "lecture": 40,
+      "hours": 250
+    },
+		{
+      "_id": 5,
+      "title": "Class LKG-3",
+      "rating": 4.5,
+      "courseDetails": "Specially crafted early learning program for young minds",
+      "instractor": {
+        "name": "Shrey Vegad",
+        "img": "https://avatars.githubusercontent.com/u/84916009?s=400&u=31e43dea4cb2e2f3cfa6b073685c2d36bf467aae&v=4",
+        "designation": "Teacher"
+      },
+      "icon": "https://ouch-cdn2.icons8.com/nhL1vJfQXaofi3NbQdLbqk6DI1KVibXvchef-eDUpsQ/rs:fit:256:215/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvNjIv/ZWY4M2QxMTQtYzA2/Ni00NzgzLWE2MTUt/YzVkMDNjNTUzZDU5/LnN2Zw.png",
+      "price": {
+        "full": 1000,
+        "monthly": 150
+      },
+      "lecture": 20,
+      "hours": 120
+    },
+		{
+      "_id": 6,
+      "title": "GATE",
+      "rating": 4,
+      "courseDetails": "Make your dremas comes true for M.Tech",
+      "instractor": {
+        "name": "Shrey Vegad",
+        "img": "https://avatars.githubusercontent.com/u/84916009?s=400&u=31e43dea4cb2e2f3cfa6b073685c2d36bf467aae&v=4",
+        "designation": "Teacher"
+      },
+      "icon": "https://ouch-cdn2.icons8.com/nhL1vJfQXaofi3NbQdLbqk6DI1KVibXvchef-eDUpsQ/rs:fit:256:215/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvNjIv/ZWY4M2QxMTQtYzA2/Ni00NzgzLWE2MTUt/YzVkMDNjNTUzZDU5/LnN2Zw.png",
+      "price": {
+        "full": 1200,
+        "monthly": 180
+      },
+      "lecture": 55,
+      "hours": 290
+    }
+	]
+}
